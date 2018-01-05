@@ -2,6 +2,8 @@
 
 - 微信中直接一键领取支付宝红包
 - One click to obtain the alipay coupon from Weixin
+- 微信中可直接访问 =>  http://sougg.com/wy
+- [一键领取](http://sougg.com/wy)
 
 # 参考代码如下
 
