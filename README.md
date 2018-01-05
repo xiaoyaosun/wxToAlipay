@@ -4,6 +4,8 @@
 - One click to obtain the alipay coupon from Weixin
 - 微信中可直接访问 =>  http://sougg.com/wy
 - [一键领取](http://sougg.com/wy)
+- 如果觉得好，请不要忘记给star，谢谢支持。
+- 我的邮箱： xiaoyaosun@qq.com
 
 # 参考代码如下
 
